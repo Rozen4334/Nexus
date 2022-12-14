@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus", "Nexus\Nexus.csproj", "{A5188C30-CECA-482E-B206-BAE19326A2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus.Sample.Console", "samples\Nexus.Sample.Console\Nexus.Sample.Console.csproj", "{1AFDFB5C-4C27-4942-8481-C8674302654D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5188C30-CECA-482E-B206-BAE19326A2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5188C30-CECA-482E-B206-BAE19326A2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5188C30-CECA-482E-B206-BAE19326A2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5188C30-CECA-482E-B206-BAE19326A2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AFDFB5C-4C27-4942-8481-C8674302654D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFDFB5C-4C27-4942-8481-C8674302654D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFDFB5C-4C27-4942-8481-C8674302654D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFDFB5C-4C27-4942-8481-C8674302654D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8556F69-1EF8-4ED6-A914-D59F882B54BF}
+	EndGlobalSection
+EndGlobal
